@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:2.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/2.0.0/jakarta.servlet.jsp.jstl-api-2.0.0.jar" />
+  </library>
+  <library name="Maven: com.mysql:mysql-connector-j:8.0.33">
+    <archive path="C:/Users/thanh/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" />
+  </library>
+  <library name="Maven: org.glassfish.web:jakarta.servlet.jsp.jstl:2.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/2.0.0/jakarta.servlet.jsp.jstl-2.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.servlet:jakarta.servlet-api:5.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/jakarta/servlet/jakarta.servlet-api/5.0.0/jakarta.servlet-api-5.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.el:jakarta.el-api:4.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/jakarta/el/jakarta.el-api/4.0.0/jakarta.el-api-4.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.core:3.0.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/3.0.2/org.eclipse.persistence.core-3.0.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.jpa.jpql:3.0.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/3.0.2/org.eclipse.persistence.jpa.jpql-3.0.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.jpa:3.0.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/3.0.2/org.eclipse.persistence.jpa-3.0.2.jar" />
+  </library>
+  <library name="Maven: org.eclipse.persistence:org.eclipse.persistence.asm:9.1.0">
+    <archive path="C:/Users/thanh/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.1.0/org.eclipse.persistence.asm-9.1.0.jar" />
+  </library>
+  <library name="Maven: jakarta.transaction:jakarta.transaction-api:2.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.0/jakarta.transaction-api-2.0.0.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging:3.4.3.Final">
+    <archive path="C:/Users/thanh/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar" />
+  </library>
+  <library name="Maven: jakarta.persistence:jakarta.persistence-api:3.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.0.0/jakarta.persistence-api-3.0.0.jar" />
+  </library>
+  <library name="Maven: org.hibernate.orm:hibernate-core:6.0.2.Final">
+    <archive path="C:/Users/thanh/.m2/repository/org/hibernate/orm/hibernate-core/6.0.2.Final/hibernate-core-6.0.2.Final.jar" />
+  </library>
+  <library name="Maven: com.fasterxml:classmate:1.5.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.12.9">
+    <archive path="C:/Users/thanh/.m2/repository/net/bytebuddy/byte-buddy/1.12.9/byte-buddy-1.12.9.jar" />
+  </library>
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:6.0.1.Final">
+    <archive path="C:/Users/thanh/.m2/repository/org/hibernate/common/hibernate-commons-annotations/6.0.1.Final/hibernate-commons-annotations-6.0.1.Final.jar" />
+  </library>
+  <library name="Maven: org.jboss:jandex:2.4.2.Final">
+    <archive path="C:/Users/thanh/.m2/repository/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-runtime:3.0.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/glassfish/jaxb/jaxb-runtime/3.0.2/jaxb-runtime-3.0.2.jar" />
+  </library>
+  <library name="Maven: com.sun.activation:jakarta.activation:2.0.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar" />
+  </library>
+  <library name="Maven: jakarta.inject:jakarta.inject-api:2.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.0/jakarta.inject-api-2.0.0.jar" />
+  </library>
+  <library name="Maven: org.antlr:antlr4-runtime:4.10">
+    <archive path="C:/Users/thanh/.m2/repository/org/antlr/antlr4-runtime/4.10/antlr4-runtime-4.10.jar" />
+  </library>
+  <library name="Maven: com.sun.istack:istack-commons-runtime:4.0.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/sun/istack/istack-commons-runtime/4.0.1/istack-commons-runtime-4.0.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.9.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-core:3.0.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/glassfish/jaxb/jaxb-core/3.0.2/jaxb-core-3.0.2.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:txw2:3.0.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/glassfish/jaxb/txw2/3.0.2/txw2-3.0.2.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.9.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/thanh/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.9.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.9.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.8.9">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar" />
+  </library>
+  <library name="Maven: com.sun.mail:jakarta.mail:2.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/sun/mail/jakarta.mail/2.0.0/jakarta.mail-2.0.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-context:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-context/1.59.0/grpc-context-1.59.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-core:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-core/1.59.0/grpc-core-1.59.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-xds:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-xds/1.59.0/grpc-xds-1.59.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-googleapis:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-googleapis/1.59.0/grpc-googleapis-1.59.0.jar" />
+  </library>
+  <library name="Maven: com.google.auth:google-auth-library-oauth2-http:1.20.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/auth/google-auth-library-oauth2-http/1.20.0/google-auth-library-oauth2-http-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.api.grpc:proto-google-iam-v1:1.23.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/grpc/proto-google-iam-v1/1.23.0/proto-google-iam-v1-1.23.0.jar" />
+  </library>
+  <library name="Maven: com.google.api:api-common:2.20.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/api-common/2.20.0/api-common-2.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.cloud:google-cloud-core-grpc:2.27.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/cloud/google-cloud-core-grpc/2.27.0/google-cloud-core-grpc-2.27.0.jar" />
+  </library>
+  <library name="Maven: com.google.auto.value:auto-value-annotations:1.10.4">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/auto/value/auto-value-annotations/1.10.4/auto-value-annotations-1.10.4.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-alts:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-alts/1.59.0/grpc-alts-1.59.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-protobuf:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-protobuf/1.59.0/grpc-protobuf-1.59.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-services:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-services/1.59.0/grpc-services-1.59.0.jar" />
+  </library>
+  <library name="Maven: com.google.cloud:google-cloud-core:2.27.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/cloud/google-cloud-core/2.27.0/google-cloud-core-2.27.0.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.16.0">
+    <archive path="C:/Users/thanh/.m2/repository/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-rls:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-rls/1.59.0/grpc-rls-1.59.0.jar" />
+  </library>
+  <library name="Maven: com.google.api.grpc:proto-google-common-protos:2.28.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/grpc/proto-google-common-protos/2.28.0/proto-google-common-protos-2.28.0.jar" />
+  </library>
+  <library name="Maven: io.opencensus:opencensus-contrib-http-util:0.31.1">
+    <archive path="C:/Users/thanh/.m2/repository/io/opencensus/opencensus-contrib-http-util/0.31.1/opencensus-contrib-http-util-0.31.1.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:3.0.2">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" />
+  </library>
+  <library name="Maven: com.google.api:gax-grpc:2.37.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/gax-grpc/2.37.0/gax-grpc-2.37.0.jar" />
+  </library>
+  <library name="Maven: io.opencensus:opencensus-api:0.31.1">
+    <archive path="C:/Users/thanh/.m2/repository/io/opencensus/opencensus-api/0.31.1/opencensus-api-0.31.1.jar" />
+  </library>
+  <library name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-inprocess:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-inprocess/1.59.0/grpc-inprocess-1.59.0.jar" />
+  </library>
+  <library name="Maven: com.google.api.grpc:grpc-google-cloud-storage-v2:2.29.1-alpha">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/grpc/grpc-google-cloud-storage-v2/2.29.1-alpha/grpc-google-cloud-storage-v2-2.29.1-alpha.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="C:/Users/thanh/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-api:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-api/1.59.0/grpc-api-1.59.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-auth:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-auth/1.59.0/grpc-auth-1.59.0.jar" />
+  </library>
+  <library name="Maven: com.google.http-client:google-http-client:1.43.3">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/http-client/google-http-client/1.43.3/google-http-client-1.43.3.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-qual:3.39.0">
+    <archive path="C:/Users/thanh/.m2/repository/org/checkerframework/checker-qual/3.39.0/checker-qual-3.39.0.jar" />
+  </library>
+  <library name="Maven: com.google.android:annotations:4.1.1.4">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4.jar" />
+  </library>
+  <library name="Maven: com.google.re2j:re2j:1.7">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/re2j/re2j/1.7/re2j-1.7.jar" />
+  </library>
+  <library name="Maven: com.google.guava:failureaccess:1.0.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.9">
+    <archive path="C:/Users/thanh/.m2/repository/org/slf4j/slf4j-api/1.7.9/slf4j-api-1.7.9.jar" />
+  </library>
+  <library name="Maven: com.google.apis:google-api-services-storage:v1-rev20231028-2.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/apis/google-api-services-storage/v1-rev20231028-2.0.0/google-api-services-storage-v1-rev20231028-2.0.0.jar" />
+  </library>
+  <library name="Maven: com.google.api:gax-httpjson:2.37.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/gax-httpjson/2.37.0/gax-httpjson-2.37.0.jar" />
+  </library>
+  <library name="Maven: com.google.api-client:google-api-client:2.2.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api-client/google-api-client/2.2.0/google-api-client-2.2.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-simple:1.7.9">
+    <archive path="C:/Users/thanh/.m2/repository/org/slf4j/slf4j-simple/1.7.9/slf4j-simple-1.7.9.jar" />
+  </library>
+  <library name="Maven: com.google.http-client:google-http-client-appengine:1.43.3">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/http-client/google-http-client-appengine/1.43.3/google-http-client-appengine-1.43.3.jar" />
+  </library>
+  <library name="Maven: com.google.api.grpc:proto-google-cloud-storage-v2:2.29.1-alpha">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/grpc/proto-google-cloud-storage-v2/2.29.1-alpha/proto-google-cloud-storage-v2-2.29.1-alpha.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.24.4">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/protobuf/protobuf-java/3.24.4/protobuf-java-3.24.4.jar" />
+  </library>
+  <library name="Maven: org.conscrypt:conscrypt-openjdk-uber:2.5.2">
+    <archive path="C:/Users/thanh/.m2/repository/org/conscrypt/conscrypt-openjdk-uber/2.5.2/conscrypt-openjdk-uber-2.5.2.jar" />
+  </library>
+  <library name="Maven: com.google.auth:google-auth-library-credentials:1.20.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/auth/google-auth-library-credentials/1.20.0/google-auth-library-credentials-1.20.0.jar" />
+  </library>
+  <library name="Maven: com.google.oauth-client:google-oauth-client:1.34.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/oauth-client/google-oauth-client/1.34.1/google-oauth-client-1.34.1.jar" />
+  </library>
+  <library name="Maven: com.google.http-client:google-http-client-jackson2:1.43.3">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/http-client/google-http-client-jackson2/1.43.3/google-http-client-jackson2-1.43.3.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.22.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/errorprone/error_prone_annotations/2.22.0/error_prone_annotations-2.22.0.jar" />
+  </library>
+  <library name="Maven: org.threeten:threetenbp:1.6.8">
+    <archive path="C:/Users/thanh/.m2/repository/org/threeten/threetenbp/1.6.8/threetenbp-1.6.8.jar" />
+  </library>
+  <library name="Maven: com.google.cloud:google-cloud-storage:2.29.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/cloud/google-cloud-storage/2.29.1/google-cloud-storage-2.29.1.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.15.3">
+    <archive path="C:/Users/thanh/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.3/jackson-core-2.15.3.jar" />
+  </library>
+  <library name="Maven: io.perfmark:perfmark-api:0.26.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/perfmark/perfmark-api/0.26.0/perfmark-api-0.26.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-stub:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-stub/1.59.0/grpc-stub-1.59.0.jar" />
+  </library>
+  <library name="Maven: io.opencensus:opencensus-proto:0.2.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/opencensus/opencensus-proto/0.2.0/opencensus-proto-0.2.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-util:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-util/1.59.0/grpc-util-1.59.0.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java-util:3.24.4">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/protobuf/protobuf-java-util/3.24.4/protobuf-java-util-3.24.4.jar" />
+  </library>
+  <library name="Maven: javax.annotation:javax.annotation-api:1.3.2">
+    <archive path="C:/Users/thanh/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-protobuf-lite:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-protobuf-lite/1.59.0/grpc-protobuf-lite-1.59.0.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-grpclb:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-grpclb/1.59.0/grpc-grpclb-1.59.0.jar" />
+  </library>
+  <library name="Maven: com.google.api:gax:2.37.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/gax/2.37.0/gax-2.37.0.jar" />
+  </library>
+  <library name="Maven: com.google.cloud:google-cloud-core-http:2.27.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/cloud/google-cloud-core-http/2.27.0/google-cloud-core-http-2.27.0.jar" />
+  </library>
+  <library name="Maven: com.google.http-client:google-http-client-apache-v2:1.43.3">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/http-client/google-http-client-apache-v2/1.43.3/google-http-client-apache-v2-1.43.3.jar" />
+  </library>
+  <library name="Maven: com.google.http-client:google-http-client-gson:1.43.3">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/http-client/google-http-client-gson/1.43.3/google-http-client-gson-1.43.3.jar" />
+  </library>
+  <library name="Maven: com.google.j2objc:j2objc-annotations:2.8">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:32.1.2-jre">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar" />
+  </library>
+  <library name="Maven: com.google.api.grpc:gapic-google-cloud-storage-v2:2.29.1-alpha">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/api/grpc/gapic-google-cloud-storage-v2/2.29.1-alpha/gapic-google-cloud-storage-v2-2.29.1-alpha.jar" />
+  </library>
+  <library name="Maven: io.grpc:grpc-netty-shaded:1.59.0">
+    <archive path="C:/Users/thanh/.m2/repository/io/grpc/grpc-netty-shaded/1.59.0/grpc-netty-shaded-1.59.0.jar" />
+  </library>
+  <library name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.23">
+    <archive path="C:/Users/thanh/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.23/animal-sniffer-annotations-1.23.jar" />
+  </library>
+  <library name="Maven: com.google.cloud.sql:jdbc-socket-factory-core:1.2.3">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/cloud/sql/jdbc-socket-factory-core/1.2.3/jdbc-socket-factory-core-1.2.3.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jnr-ffi:2.2.2">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jnr-ffi/2.2.2/jnr-ffi-2.2.2.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jnr-a64asm:1.0.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jnr-a64asm/1.0.0/jnr-a64asm-1.0.0.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jnr-posix:3.1.5">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jnr-posix/3.1.5/jnr-posix-3.1.5.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm-analysis:9.1">
+    <archive path="C:/Users/thanh/.m2/repository/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar" />
+  </library>
+  <library name="Maven: com.google.cloud.sql:mysql-socket-factory-connector-j-8:1.2.3">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/cloud/sql/mysql-socket-factory-connector-j-8/1.2.3/mysql-socket-factory-connector-j-8-1.2.3.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jnr-unixsocket:0.38.6">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jnr-unixsocket/0.38.6/jnr-unixsocket-0.38.6.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm-commons:9.1">
+    <archive path="C:/Users/thanh/.m2/repository/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jnr-enxio:0.32.4">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jnr-enxio/0.32.4/jnr-enxio-0.32.4.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm-tree:9.1">
+    <archive path="C:/Users/thanh/.m2/repository/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar" />
+  </library>
+  <library name="Maven: com.google.apis:google-api-services-sqladmin:v1beta4-rev20210420-1.31.0">
+    <archive path="C:/Users/thanh/.m2/repository/com/google/apis/google-api-services-sqladmin/v1beta4-rev20210420-1.31.0/google-api-services-sqladmin-v1beta4-rev20210420-1.31.0.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jffi:native:1.3.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jffi/1.3.1/jffi-1.3.1-native.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jnr-constants:0.10.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jnr-constants/0.10.1/jnr-constants-0.10.1.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm:9.1">
+    <archive path="C:/Users/thanh/.m2/repository/org/ow2/asm/asm/9.1/asm-9.1.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-compat-qual:2.5.5">
+    <archive path="C:/Users/thanh/.m2/repository/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jffi:1.3.1">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jffi/1.3.1/jffi-1.3.1.jar" />
+  </library>
+  <library name="Maven: com.github.jnr:jnr-x86asm:1.0.2">
+    <archive path="C:/Users/thanh/.m2/repository/com/github/jnr/jnr-x86asm/1.0.2/jnr-x86asm-1.0.2.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm-util:9.1">
+    <archive path="C:/Users/thanh/.m2/repository/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar" />
+  </library>
+  <library name="mssql-jdbc-8.2.2.jre11" />
+</eclipse-userlibraries>
+
